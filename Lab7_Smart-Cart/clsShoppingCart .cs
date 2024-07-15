@@ -16,7 +16,6 @@ namespace Lab7_Smart_Cart
         enum enUserChoise
         {
             View=1,
-         
             Delete=2,
             ViewUserCart=3,
             ViewClothingStore=4,
