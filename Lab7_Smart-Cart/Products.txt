@@ -1,0 +1,38 @@
+01,Eggplant ,20,Food
+02,Asparagus,30,Food
+03,Smartphone,100,Electronics
+04,Laptop,800,Electronics
+05,Desktop Computer,1000,Electronics
+06,Dress,25,Clothing
+07,Suit,60,Clothing
+08,Tie,10,Clothing
+09,Zucchini,5,Food
+10,Cucumbers,5,Food
+11,Lettuce,6,Food
+12,Sweater,15,Clothing
+13,Coat,10,Clothing
+14,Jacket,14,Clothing
+15,Digital Camera,20,Electronics
+16,Headphones,30,Electronics
+17,Gaming Console,72,Electronics
+18,Drone,150,Electronics
+19,Onions,4,Food
+20,Peppers,3,Food
+21,Cauliflower,2,Food
+22,Smartwatch,80,Electronics
+23,E-Reader,90,Electronics
+24,Speakers,45,Electronics
+25,Jeans,25,Clothing
+26,Shorts,7,Clothing
+27,Skirt,22,Clothing
+28,Carrots,4,Food
+29,Potatoes,9,Food
+30,Spinach,5,Food
+31,Tomatoes,2,Food
+32,Broccoli,7,Food
+33,T-Shirt,12,Clothing
+34,Shirt,15,Clothing
+35,Blouse,13,Clothing
+36,Pants,17,Clothing
+37,Tablet,130,Electronics
+38,Smart TV,600,Electronics

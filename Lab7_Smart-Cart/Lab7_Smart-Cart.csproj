@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+
+	<ItemGroup>
+		<None Update ="Products.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+
+
+	</ItemGroup>
 </Project>
